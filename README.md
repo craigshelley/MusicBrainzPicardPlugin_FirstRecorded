@@ -1,1 +1,0 @@
-# MusicBrainzPicardPlugin_FirstRecorded
